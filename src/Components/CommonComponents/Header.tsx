@@ -217,7 +217,7 @@ const Header: React.FC = () => {
                   </svg>
                 </button>
                 {isAccordionOpen && (
-                  <div className="flex flex-col text-lg">
+                  <div className="flex flex-col text-sm">
                     {serviceLinks.map((service) => (
                       <Link
                         key={service.href}
