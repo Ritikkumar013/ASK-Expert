@@ -17,28 +17,28 @@ const steps: Step[] = [
     title: "Step 1",
     description:
       "Submit Your Issue: Easily share the details of your tech issue through our seamless chat interface.",
-    lottiePath: "/LottieAnimation3.lottie",
+    lottiePath: "/lottiefinal.lottie",
   },
   {
     step: 2,
     title: "Step 2",
     description:
       "Connect with an Expert: In seconds, you’re paired with a qualified professional who understands your problem.",
-    lottiePath: "/LottieAnimation4.lottie",
+    lottiePath: "/lottiefinal.lottie",
   },
   {
     step: 3,
     title: "Step 3",
     description:
       "Receive Real-Time Solutions: Follow step-by-step instructions provided by our expert.",
-    lottiePath: "/LottieAnimation3.lottie",
+    lottiePath: "/lottiefinal.lottie",
   },
   {
     step: 4,
     title: "Step 4",
     description:
       "Save Time and Money: Fast resolutions without high costs, expert advice just a chat away.",
-    lottiePath: "/LottieAnimation4.lottie",
+    lottiePath: "/lottiefinal.lottie",
   },
 ];
 

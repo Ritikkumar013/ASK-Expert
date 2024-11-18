@@ -16,19 +16,19 @@ const Howitworksmobile: React.FC = () => {
   const buttonData: ButtonData[] = [
     {
       content: "Facing issues with your printer? Our experts can help!",
-      lottiePath: "/LottieAnimation3.lottie",
+      lottiePath: "/lottiefinal.lottie",
     },
     {
       content: "Struggling with Windows errors? We've got you covered.",
-      lottiePath: "/LottieAnimation4.lottie",
+      lottiePath: "/lottiefinal.lottie",
     },
     {
       content: "Effortlessly recover and repair your Outlook PST files.",
-      lottiePath: "/LottieAnimation3.lottie",
+      lottiePath: "/lottiefinal.lottie",
     },
     {
       content: "Get expert help with your TV setup and configuration!",
-      lottiePath: "/LottieAnimation4.lottie",
+      lottiePath: "/lottiefinal.lottie",
     },
   ];
 
